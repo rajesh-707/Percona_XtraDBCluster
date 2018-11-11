@@ -1,5 +1,5 @@
 
-# Ansible role `ansible-role-XtraDB-Cluster`
+#  `Percona-XtraDB-Cluster`
 
 An Ansible role for setup a percon XtraDB Cluster. Specifically, the responsibilities of this role are to:
 
